@@ -1,0 +1,2 @@
+# Zentora-an-adaptive-ai-for-personalized-learning-on-mental-health-A20-
+An AI-powered Mental Health Chatbot designed to support young students by providing empathetic and informative responses related to mental well-being. The project includes a curated mental health dataset and implements six machine learning models to analyze user sentiment, predict emotional states, and enhance conversation quality.
